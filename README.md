@@ -1,4 +1,5 @@
 ---
+edit by simon
 title: Inappbrowser
 description: Open an in-app browser window.
 ---
